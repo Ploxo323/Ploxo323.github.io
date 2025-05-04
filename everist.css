@@ -1,0 +1,429 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.restangle1 {
+    position: absolute;
+    width: 1200px;
+    height: 24px;
+    background: rgba(185, 205, 233, 1);
+
+}
+.restangle2{
+    position: absolute;
+    width: 1200px;
+    height: 60px;
+    top: 24px;
+    background: rgba(255, 255, 255, 1);
+}
+.вменю {
+    position: absolute;
+    width: 59px;
+    height: 39px;
+    top: 1px;
+    left: -1px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19.5px;
+    letter-spacing: 0%;
+    color: rgba(39, 5, 21, 1);
+}
+
+.вменю2 {
+    position: absolute;
+    width: 440px;
+    height: 16px;
+    top: 4px;
+    left: 380px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15.6px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(39, 5, 21, 1);
+}
+.фото1 {
+    position: absolute;
+    width: 130px;
+    height: 22px;
+    top: 43px;
+    left: 50px;
+}
+.shop {
+    position: absolute;
+    width: 42px;
+    height: 19px;
+    top: 44px;
+    left: 486px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18.2px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: rgba(39, 5, 21, 1);
+}
+.learn {
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    top: 44px;
+    left: 558px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18.2px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: rgba(39, 5, 21, 1);
+}
+.sust {
+    position: absolute;
+    width: 116px;
+    height: 19px;
+    top: 44px;
+    left: 658px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18.2px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: rgba(39, 5, 21, 1);
+}
+.our {
+    position: absolute;
+    width: 86px;
+    height: 19px;
+    top: 44px;
+    left: 826px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18.2px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: rgba(39, 5, 21, 1);
+}
+.press {
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    top: 44px;
+    left: 942px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18.2px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: rgba(39, 5, 21, 1);
+}
+.quiz {
+    position: absolute;
+    width: 36;
+    height: 19;
+    top: 44px;
+    left: 1020px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18.2px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: rgba(39, 5, 21, 1);
+}
+.фото2 {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 42px;
+    left: 1086px;
+}
+.фото3 {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 42px;
+    left: 1128px;
+}
+.o {
+    position: absolute;
+    width: 11px;
+    height: 18px;
+    top: 55px;
+    left: 1142px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    text-align: center;
+    background: rgba(255, 255, 255, 1);
+}
+.layout {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 110px;
+    left: 970px;
+    background: rgba(255, 255, 255, 1);
+
+}
+.крестик {
+    position: absolute;
+    width: 8px;
+    height: 18px;
+    top: 109px;
+    left: 975px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: rgba(39, 5, 21, 1);
+}
+.text1 {
+    position: absolute;
+    width: 267px;
+    height: 114px;
+    top: 243px;
+    left: 477px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(39, 5, 21, 1);
+}
+.shop2 {
+    position: absolute;
+    width: 136px;
+    height: 46px;
+    top: 439px;
+    left: 532px;
+    border-width: 2px;
+    background: rgba(39, 5, 21, 1) ;
+    border: 2px solid rgba(39, 5, 21, 1);
+    color: rgba(255, 255, 255, 1) ;   
+}
+.restangle3 {
+    position: absolute;
+    width: 1200px;
+    height: 6913px;
+    top: 667px;
+    background: rgba(251, 246, 240, 1);
+
+}
+.фото4 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 744px;
+    left: 240px;
+    background: none;
+}
+.award {
+    position: absolute;
+    width: 147px;
+    height: 20px;
+    top: 863px;
+    left: 227px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19.5px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(39, 5, 21, 1);
+}
+.best {
+    position: absolute;
+    width: 184px;
+    height: 20px;
+    top: 882px;
+    left: 208px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19.5px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(39, 5, 21, 1);
+}
+.фото5 {
+    position: absolute;
+    width: 180px;
+    height: 56px;
+    top: 785px;
+    left: 510px;
+}
+.world {
+    position: absolute;
+    width: 202px;
+    height: 20px;
+    top: 863px;
+    left: 499px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19.5px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(39, 5, 21, 1);
+}
+.on {
+    position: absolute;
+    width: 98px;
+    height: 20px;
+    top: 882px;
+    left: 551px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19.5px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(39, 5, 21, 1);
+}
+.фото6 {
+    position: absolute;
+    width: 120px;
+    height: 78px;
+    top: 770px;
+    left: 840px; 
+}
+.the {
+    position: absolute;
+    width: 231px;
+    height: 39px;
+    top: 866px;
+    left: 784px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19.5px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(39, 5, 21, 1);
+}
+
+.точка {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 942px;
+    left: 517px;
+    border-width: 2px;
+    border: 2px solid rgba(39, 5, 21, 1)
+}
+.точка2 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 942px;
+    left: 543px;
+    border-width: 2px;
+    background: rgba(39, 5, 21, 1);
+    border: 2px solid rgba(39, 5, 21, 1)
+}
+.точка3 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 942px;
+    left: 569px;
+    border-width: 2px;
+    background: rgba(39, 5, 21, 1);
+    border: 2px solid rgba(39, 5, 21, 1)
+}
+
+
+.точка4 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 942px;
+    left: 595px;
+    border-width: 2px;
+    background: rgba(39, 5, 21, 1);
+    border: 2px solid rgba(39, 5, 21, 1)
+}
+
+.точка5 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 942px;
+    left: 621px;
+    border-width: 2px;
+    background: rgba(39, 5, 21, 1);
+    border: 2px solid rgba(39, 5, 21, 1)
+}
+.точка6 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 942px;
+    left:  647px;
+    border-width: 2px;
+    background: rgba(39, 5, 21, 1);
+    border: 2px solid rgba(39, 5, 21, 1)
+}
+.точка7 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 942px;
+    left:  647px;
+    border-width: 2px;
+    background: rgba(39, 5, 21, 1);
+    border: 2px solid rgba(39, 5, 21, 1)
+}
+.точка8 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 942px;
+    left:  673px;
+    border-width: 2px;
+    background: rgba(39, 5, 21, 1);
+    border: 2px solid rgba(39, 5, 21, 1)
+}
+.фото7 {
+    position: absolute;
+    width: 333px;
+    height: 333px;
+    top: 1036px;
+    left: 50px;
+}
+.quick {
+    position: absolute;
+    width: 333px;
+    height: 46px;
+    top: 1369px;
+    left: 50px;
+    border-width: 2px;
+    background: rgba(39, 5, 21, 1);
+    border: 2px solid rgba(39, 5, 21, 1);
+    color: rgba(255, 255, 255, 1);
+}
+.цена {
+    position: absolute;
+    width: 49px;
+    height: 15px;
+    top: 1442px;
+    left: 192px;
+    font-family: Open Sans;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(39, 5, 21, 1);
+}
+
